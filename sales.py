@@ -13,7 +13,7 @@ For this program to work, have these installed using pip:
     -- also this python file needs to be in the same
         directory as the excel file (retailsales.xlsx)
 
-Note: If the program is quit using option "5", then the sqlite
+Note: If the program is quit using option "3", then the sqlite
 database file does not need to be manually deleted before running
 the program again.
     
