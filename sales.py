@@ -1,6 +1,7 @@
 """
-This is a simplified version to show how the main parts of
-the program work.
+This is a simplified program to take an excel file and
+load it into sqlite3, then display that data in a tabular or
+graph format.
 
 For this program to work, have these installed using pip:
     pip install openpyxl (xlrd did not work)
