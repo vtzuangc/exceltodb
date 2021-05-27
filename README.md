@@ -4,12 +4,12 @@ load it into sqlite3, then display that data in a tabular or
 graph format.
 
 For this program to work, have these installed using pip:
-    pip install openpyxl (xlrd did not work)
-    pip install numpy
-    pip install pandas
-    pip install matplotlib
-    pip install scikit-learn
-    pip install sklearn
+    <li>pip install openpyxl (xlrd did not work)
+    <li>pip install numpy
+    <li>pip install pandas
+    <li>pip install matplotlib
+    <li>pip install scikit-learn
+    <li>pip install sklearn
 
     -- also this python file needs to be in the same
         directory as the excel file (retailsales.xlsx)
